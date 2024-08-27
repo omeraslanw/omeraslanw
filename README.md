@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ömer Faruk Aslan</h1>
-<h3 align="center">A passionate backend developer from Türkiye</h3>
+<h3 align="center">I'm a passionate junior backend developer and a mathematical engineering student at Yildiz Technical University.</h3>
 
 - 🔭 I’m currently working on [Gece Kodu](https://github.com/skylab-kulubu/gecekodu-backend)
 
