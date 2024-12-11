@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Gece Kodu](https://github.com/skylab-kulubu/gecekodu-backend)
 
-- 🌱 I’m currently learning **Asp.Net Core and Python**
+- 🌱 I’m currently learning **Java, Spring Boot and Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/omeraslanw?tab=repositories](https://github.com/omeraslanw?tab=repositories)
 
