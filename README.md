@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ömer Faruk Aslan</h1>
 <h3 align="center">I'm a passionate junior backend developer and a mathematical engineering student at Yildiz Technical University.</h3>
 
-- 🔭 I’m currently working on [Gece Kodu](https://github.com/skylab-kulubu/gecekodu-backend)
+- 🔭 I’m currently working on [Gece Kodu](https://github.com/skylab-kulubu/gecekodu-backend) and [Yıldız Chess Robot](https://github.com/YTU-Satranc-Kulubu/YTUChessRobotServer)
 
-- 🌱 I’m currently learning **Java, Spring Boot and Python**
+- 🌱 I’m currently learning **Java, Spring Boot and Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/omeraslanw?tab=repositories](https://github.com/omeraslanw?tab=repositories)
 
