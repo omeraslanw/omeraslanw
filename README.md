@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Machine Learning and Microservices**
 
-- 👨‍💻 All of my projects are available at [https://github.com/omeraslanw?tab=repositories](https://github.com/omeraslanw?tab=repositories)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://omerfarukaslanportfolio.netlify.app/)
 
 - 📫 How to reach me **omeraslanw36@gmail.com**
 
